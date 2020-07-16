@@ -5,4 +5,5 @@ public class Product {
 	
 	private String productId;
 	
+	private String ww;
 }
